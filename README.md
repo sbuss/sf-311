@@ -7,4 +7,4 @@ Analysis of 311 complaints in SF
 
 ![Medical waste, over time, by district](https://raw.githubusercontent.com/sbuss/sf-311/master/figs/medical-waste-over-time-by-district.png)
 
-![D6 getting worse](https://raw.githubusercontent.com/sbuss/sf-311/master/figs/lollipop-311-2008-to-2017.png)
+![D6 getting worse](https://raw.githubusercontent.com/sbuss/sf-311/master/figs/lollipop-311-2012-to-2017.png)
